@@ -1,10 +1,1 @@
- Volume in drive C is LENOVO SYSTEMS
- Volume Serial Number is 960C-865D
-
- Directory of C:\Users\Admin\Desktop\MyProject
-
-12/20/2018  01:19 AM    <DIR>          .
-12/20/2018  01:19 AM    <DIR>          ..
-12/20/2018  01:19 AM                 0 test1.text
-               1 File(s)              0 bytes
-               2 Dir(s)   7,204,622,336 bytes free
+some changes
